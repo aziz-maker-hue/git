@@ -10,7 +10,7 @@
 
     <h1> this is my first application</h1>
    
-         <--this is a commeter-->
+         <!-- this is a comment -->
          
   </body>
 
